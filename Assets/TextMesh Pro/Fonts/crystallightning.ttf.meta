@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c7b02c5883c6941e6af6fa9155aac2ef
+timeCreated: 1512536281
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: crystal-lightning
+  fontNames:
+  - crystal-lightning
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

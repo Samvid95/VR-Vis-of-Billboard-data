@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 618cec23ddab840e5b5961fbc8f58feb
+timeCreated: 1512536281
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DottyShadow
+  fontNames:
+  - DottyShadow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
